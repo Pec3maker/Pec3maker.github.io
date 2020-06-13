@@ -369,4 +369,5 @@ header {}
 .footer-text {
     color: #484848;
     text-align: right;
+    marge-top: 4px;
 }
